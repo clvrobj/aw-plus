@@ -1,0 +1,1 @@
+# aw+ - a Raycast extension for ActivityWatch
