@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "aw-plus",
-  "title": "aw+",
+  "title": "AW+",
   "description": "",
   "icon": "logo.png",
   "author": "clvrobj",
@@ -10,7 +10,13 @@
     {
       "name": "index",
       "title": "Today Time Spent",
-      "description": "Template with a plain detail view",
+      "description": "Show how much time you spent today.",
+      "mode": "view"
+    },
+    {
+      "name": "recent_time_spent",
+      "title": "Recent Time Spent",
+      "description": "Show how much time you spent in the recent days.",
       "mode": "view"
     }
   ],
